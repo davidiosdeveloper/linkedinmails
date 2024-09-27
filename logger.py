@@ -10,6 +10,9 @@ import configparser
 import os
 import threading
 
+
+# Agrego un cambio o un comentario por aqui 
+
 # Variables globales
 indice = 0
 datos = []
